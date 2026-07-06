@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Git
+.git/
+.gitignore
+
+# Jupyter
+notebooks/
+.ipynb_checkpoints/
+
+# Large data and results
+# (Dockerfile.api / Dockerfile.streamlit копируют только src/ и configs/,
+# так что data/ и runs/ в образ и так не попадают — они монтируются как
+# volumes в docker-compose.yml. Игнорируем их здесь на всякий случай,
+# чтобы даже случайный COPY . не утащил тяжёлые файлы в build-контекст.)
+runs/
+data/raw/mvtec_ad/
+data/splits/
+
+# Reports and temporary files
+report/
+*.log
+*.tmp
+temp_api_image.png
+*.csv.bak
+
+# Environment
+.env
+.env.local
+
+# Docker
+Dockerfile.*.bak
+docker-compose.*.bak

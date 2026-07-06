@@ -1,0 +1,70 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Data (большие файлы)
+data/raw/*
+
+# Runs directory (модели, логи, чекпоинты — очень большие)
+runs/checkpoints/*
+runs/logs/*
+runs/metrics/*
+runs/plots/*
+runs/visualization/*
+runs/visualizations/*
+runs/*.csv
+runs/*.pt
+runs/*.pth
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+ehthumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Docker
+.dockerignore.bak
+
+# Temporary files
+tmp/
+temp/
+.cache/
+*.tmp
+
+# Build artifacts
+dist/
+build/
+*.egg-info/

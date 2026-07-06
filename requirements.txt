@@ -1,0 +1,33 @@
+# Core
+fastapi
+uvicorn[standard]
+python-multipart
+# Streamlit
+streamlit
+
+# Data / ML
+numpy
+pandas
+scikit-learn
+scikit-image
+scipy
+torch
+torchvision
+torchaudio
+# Computer Vision
+opencv-python
+Pillow
+
+# Visualization
+matplotlib
+seaborn
+
+# Utils
+tqdm
+pyyaml
+openpyxl
+pydantic
+jinja2
+
+# PDF
+fpdf2
