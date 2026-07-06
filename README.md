@@ -16,7 +16,7 @@
 3. Скопируйте эту строку сюда вместо плейсхолдера ниже.
 -->
 
-![Demo]<img width="800" height="450" alt="video" src="https://github.com/user-attachments/assets/35780822-bd0b-4a57-ad97-3076d1636bfd" />
+<img width="800" height="450" alt="video" src="https://github.com/user-attachments/assets/35780822-bd0b-4a57-ad97-3076d1636bfd" />
 
 
 ---
