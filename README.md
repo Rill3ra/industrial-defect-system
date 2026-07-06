@@ -13,8 +13,8 @@
 1. Создайте Issue в репозитории на GitHub (закрывать/публиковать не обязательно).
 2. Перетащите GIF-файл в текстовое поле — GitHub сам загрузит его и подставит
    готовую ссылку вида ![demo](https://gith
+<img width="800" height="450" alt="video" src="https://github.com/user-attachments/assets/0e051c34-bb72-4b67-9567-11eee0566cd3" />
 
-Uploading Мой фильм 8.mp4…
 
 ub.com/user-attachments/assets/...).
 3. Скопируйте эту строку сюда вместо плейсхолдера ниже.
