@@ -12,15 +12,12 @@
 Как вставить сюда свой GIF:
 1. Создайте Issue в репозитории на GitHub (закрывать/публиковать не обязательно).
 2. Перетащите GIF-файл в текстовое поле — GitHub сам загрузит его и подставит
-   готовую ссылку вида ![demo](https://gith
-<img width="800" height="450" alt="video" src="https://github.com/user-attachments/assets/0e051c34-bb72-4b67-9567-11eee0566cd3" />
-
-
-ub.com/user-attachments/assets/...).
+   готовую ссылку вида ![demo](https://github.com/user-attachments/assets/...).
 3. Скопируйте эту строку сюда вместо плейсхолдера ниже.
 -->
 
-![Demo](docs/assets/demo.gif)
+![Demo]<img width="800" height="450" alt="video" src="https://github.com/user-attachments/assets/35780822-bd0b-4a57-ad97-3076d1636bfd" />
+
 
 ---
 
